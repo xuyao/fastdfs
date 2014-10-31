@@ -1,4 +1,4 @@
-package cn.cnnic.fastdfs;
+package cn.xuyao.fastdfs;
 
 import java.io.File;
 import java.io.IOException;
