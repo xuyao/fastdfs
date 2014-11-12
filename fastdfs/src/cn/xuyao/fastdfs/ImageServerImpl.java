@@ -9,8 +9,6 @@ import org.csource.fastdfs.StorageClient1;
 import org.csource.fastdfs.StorageServer;
 import org.csource.fastdfs.TrackerServer;
 
-import cn.cnnic.fastdfs.pool.ConnectionPool;
-
 /**
  * 	图片服务器类
  * 	@author xuyao
